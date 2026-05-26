@@ -13,9 +13,10 @@
 * **Algoritmo Implementado:** Algoritmo de Kruskal com Union-Find (DSU)
 
 ### 👥 Integrantes do Grupo
-* [Nome do Integrante 1] - [Matrícula]
-* [Nome do Integrante 2] - [Matrícula]
-* [Nome do Integrante 3] - [Matrícula]
+* [Natan Adams] - [2210351]
+* [Luis Guilherme] - [2410504]
+* [Samuel Moreira] - [2413536]
+* [José Guilherme] - [2410501]
 
 ---
 
